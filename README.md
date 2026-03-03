@@ -5,7 +5,7 @@ I'm a **Systems Administrator** focused on **Cybersecurity**, passionate about s
 
 ---
 
-## 🛡️ What I Do
+## What I Do
 
 I design, manage, and secure IT infrastructures with a strong emphasis on prevention, monitoring, and continuous improvement.
 
@@ -21,7 +21,7 @@ I strongly believe that security is not a one-time setup — it's an ongoing pro
 
 ---
 
-## ⚙️ Technologies & Tools
+## Technologies & Tools
 
 Some of the technologies and environments I work with:
 
@@ -35,7 +35,7 @@ I’m always exploring new tools that bring real value to infrastructure securit
 
 ---
 
-## 📚 Currently
+## Currently
 
 * 📖 Deepening my knowledge with high quality certifications such as EC-Council's CEH
 * 🧠 Improving automation and incident response workflows
@@ -45,7 +45,7 @@ Continuous learning is part of my daily routine.
 
 
 
-## 📫 Get in Touch
+## Get in Touch
 
 If you'd like to connect, collaborate, or talk about cybersecurity:
 
