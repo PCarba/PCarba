@@ -7,7 +7,7 @@ I'm a **Systems Administrator** focused on **Cybersecurity**, passionate about s
 
 ## What I Do
 
-I design, manage, and secure IT infrastructures with a strong emphasis on prevention, monitoring, and continuous improvement.
+I manage IT infrastructures with a strong emphasis on prevention, monitoring, and continuous improvement.
 
 My main areas of interest include:
 
