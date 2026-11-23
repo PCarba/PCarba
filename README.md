@@ -37,7 +37,7 @@ I’m always exploring new tools that bring real value to infrastructure securit
 
 ## Currently
 
-* 📖 Deepening my knowledge with high quality certifications such as EC-Council's CEH
+* 📖 Deepening my knowledge with high quality certifications
 * 🧠 Improving automation and incident response workflows
 * 🔍 Building and testing in lab environments to stay up to date
 
